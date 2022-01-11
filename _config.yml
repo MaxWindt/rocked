@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ereca - Easy Recording Automatization
+title: Rocked - Your straightforward Recording Editor
 description: Ereca is a video editor that automatically enhances your meeting recordings
-baseurl: /ereca # the subpath of your site, e.g. /support
+baseurl: /Rocked # the subpath of your site, e.g. /support
 url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
